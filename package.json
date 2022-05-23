@@ -1,0 +1,28 @@
+{
+  "name": "goit-node.js-hw-01",
+  "homepage": "https://github.com/komedy2205/goit-node.js-hw-01",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "main": "index.js",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/komedy2205/goit-node.js-hw-01.git"
+  },
+  "bugs": {
+    "url": "https://github.com/komedy2205/goit-node.js-hw-01/issues"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "uuid": "^8.3.2",
+    "yargs": "^17.5.1"
+  }
+}
